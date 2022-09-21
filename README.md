@@ -9,7 +9,7 @@ Currently taking **Software Dev. Fundamentals** bootcamp at <a href="https://www
 </a>
 
 <h3>Links 📫</h3>
-<p><a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
+<p><a href="https://www.linkedin.com/in/kenneth-pineda-537a3523b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
 
 <!--
 **kennethpHN/kennethpHN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
