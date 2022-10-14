@@ -13,7 +13,7 @@ Feel free to look my repos!
 <h3>Links 📫</h3>
 <p><a href="https://www.linkedin.com/in/kenneth-pineda-537a3523b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
 
-<p><a href="kennethpineda11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
+<p><a href="mail:kennethpineda11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
 
 <h3>Skills 💪</h3>
 
