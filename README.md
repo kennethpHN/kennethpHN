@@ -8,8 +8,14 @@ Currently taking **Software Dev. Fundamentals** bootcamp at <a href="https://www
 <img src="https://uploads-ssl.webflow.com/5eb2f56932c3562feab232e3/5f73550d00249e7e96c9f3de_Logo.png" alt="corecodeio" width="100">
 </a>
 
+Feel free to look my repos!
+
 <h3>Links 📫</h3>
 <p><a href="https://www.linkedin.com/in/kenneth-pineda-537a3523b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
+
+<h3>Skills 💪</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,java,html,css)](https://skillicons.dev)
 
 <!--
 **kennethpHN/kennethpHN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
