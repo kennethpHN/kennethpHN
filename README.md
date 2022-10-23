@@ -4,20 +4,21 @@
 
 <img src="https://komarev.com/ghpvc/?username=kennethpHN&label=Profile%20views&color=0e75b6&style=flat" alt="kennethpHN" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/kennethpHN">
 
-Systems Engineering Student at **UNAH** <img src="https://hatscripts.github.io/circle-flags/flags/hn.svg" width="30">
+<h3 align="center">Systems Engineering Student at <b>UNAH</b> <br><br> <img src="https://hatscripts.github.io/circle-flags/flags/hn.svg" width="40"> </h3>
+<br>
 
-Currently taking **Software Dev. Fundamentals** bootcamp at <a href="https://www.core-code.io/">
-<img src="https://uploads-ssl.webflow.com/5eb2f56932c3562feab232e3/5f73550d00249e7e96c9f3de_Logo.png" alt="corecodeio" width="100">
-</a>
+Currently taking **Software Dev. Fundamentals** bootcamp at <a href="https://www.core-code.io/"><img src="https://uploads-ssl.webflow.com/5eb2f56932c3562feab232e3/5f73550d00249e7e96c9f3de_Logo.png" alt="corecodeio" width="100"></a>
 
 Feel free to look my repos!
 
 <h3>Links 📫</h3>
-<p><a href="https://www.linkedin.com/in/kenneth-pineda-537a3523b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a></p>
 
-<p><a href="mailto:kennethpineda11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a></p>
+<p >
+   <a href="https://www.linkedin.com/in/kenneth-pineda-537a3523b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+   <a href="mailto:kennethpineda11@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <b>kennethpineda11@gmail.com</b> 
+</p>
 
-<b>kennethpineda11@gmail.com</b> 
    
 
 <h3>Skills 💪</h3>
