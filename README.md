@@ -2,6 +2,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=50&pause=1000&color=B80000&background=FFFFFF00&center=true&width=500&height=100&lines=Hi!+I'm+Kenneth." alt="Typing SVG" /></a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=kennethpHN&label=Profile%20views&color=0e75b6&style=flat" alt="kennethpHN" /> <img alt="GitHub followers" src="https://img.shields.io/github/followers/kennethpHN">
+
 Systems Engineering Student at **UNAH** <img src="https://hatscripts.github.io/circle-flags/flags/hn.svg" width="30">
 
 Currently taking **Software Dev. Fundamentals** bootcamp at <a href="https://www.core-code.io/">
