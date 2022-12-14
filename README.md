@@ -7,7 +7,6 @@
 <h3 align="center">Systems Engineering Student at <b>UNAH</b> <br><br> <img src="https://hatscripts.github.io/circle-flags/flags/hn.svg" width="40"> </h3>
 <br>
 
-Currently taking **Software Dev. Fundamentals** bootcamp at <a href="https://www.core-code.io/"><img src="https://uploads-ssl.webflow.com/5eb2f56932c3562feab232e3/5f73550d00249e7e96c9f3de_Logo.png" alt="corecodeio" width="100"></a>
 
 Feel free to look my repos!
 
